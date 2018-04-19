@@ -3,7 +3,7 @@ import Toggle from "./Toggle";
 import Links from "./Links";
 
 function Header(props) {
-
+  debugger;
   let lastLinK = "";
   if(props.linK){
       lastLinK = props.linK;
